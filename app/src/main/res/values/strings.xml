@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MapsAssignment</string>
+    <string name="permission_rationale_location">Access to the location service is required!</string>
+    <string name="location_permission_denied">Permission denied!! This app require location permission to enable</string>
+    <string name="permission_required_toast">Location permission is required for this app.</string>
+</resources>
